@@ -1,0 +1,116 @@
+{
+    "Location":[
+        {
+            "name":"Rijswijk"
+            
+        },
+        {
+            "name":"Den Haag"
+            
+        },
+        {
+            "name":"Rotterdam"
+            
+        },
+        {
+            "name":"emal"
+            
+        }
+    ],
+
+    "Rotterdam2015":[
+        {
+            "id": "1",
+            "maand": "januari",
+            "employee_name": "Tiger Nixon",
+            "employee_salary": "320800",
+            "employee_age": "61",
+            "profile_image": ""
+          },
+          {
+            "id": "1",
+            "maand": "januari",
+            "employee_name": "Tiger Nixon",
+            "employee_salary": "320800",
+            "employee_age": "50",
+            "profile_image": ""
+          
+          },
+          { "id": "1",
+            "maand": "februarie",
+            "employee_name": "Tiger Nixon",
+            "employee_salary": "320800",
+            "employee_age": "20",
+            "profile_image": ""
+          }
+    ],
+    "Rotterdam2016":
+        {
+            "total-in":100,
+            "total-out":800,
+                "in": {
+                        "18_30":25,
+                        "30_50": 58,
+                        "50":60
+                        },
+                "out": {
+                        "18_30": 30,
+                        "30_50": 54,
+                        "50": 50
+                        }
+        }
+        
+    ,
+    "Rotterdam2017":
+        {
+            "total-in":100,
+            "total-out":500,
+                "in": {
+                        "18_30":50,
+                        "30_50": 20,
+                        "50":80
+                        },
+                "out": {
+                        "18_30": 80,
+                        "30_50": 20,
+                        "50": 50
+                        }
+        }
+        
+    ,
+    "Rotterdam2018":
+    {
+        "total-in":100,
+        "total-out":600,
+            "in": {
+                    "18_30":45,
+                    "30_50": 90,
+                    "50":50
+                    },
+            "out": {
+                    "18_30": 54,
+                    "30_50": 54,
+                    "50": 70
+                    }
+    },
+    "Rotterdam2019":
+    {
+        "total-in":100,
+        "total-out":600,
+            "in": {
+                    "18_30":35,
+                    "30_50": 58,
+                    "50":60
+                    },
+            "out": {
+                    "18_30": 30,
+                    "30_50": 54,
+                    "50": 50
+                    }
+    }
+
+
+
+
+    
+}
