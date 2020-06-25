@@ -154,5 +154,41 @@
             "95_100": 8,
             "100+": 1
         }
+    },
+    "burgstaatZuidhorn2019": {
+        "ongehuwd": {
+            "m": 54,
+            "v": 48
+        },
+        "gehuwd": {
+            "m": 49,
+            "v": 56
+        },
+        "gescheiden": {
+            "m": 25,
+            "v": 39
+        },
+        "verweduwd": {
+            "m": 11,
+            "v": 25
+        }
+    },
+    "burgstaatZuidhorn2019?minAge=18&maxAge=25": {
+        "ongehuwd": {
+            "m": 69,
+            "v": 73
+        },
+        "gehuwd": {
+            "m": 5,
+            "v": 7
+        },
+        "gescheiden": {
+            "m": 1,
+            "v": 2
+        },
+        "verweduwd": {
+            "m": 0,
+            "v": 1
+        }
     }    
 }
